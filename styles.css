@@ -1,0 +1,28 @@
+h1{
+    color: rgb(250, 246, 246);
+    border: 10px solid rgba(247, 10, 10, 0.897);
+    background-color: black;
+    padding: 20px;
+    margin: 10px;
+}
+
+div{
+    color:white;
+    background-color: orange;
+    border: 2px solid red;
+    padding: 20px;
+    margin: 10px;
+}
+
+p{
+    background-color: aquamarine;
+    border: 5px solid yellow;
+    padding-top: 60px;
+    padding-left: 25px;
+    padding-right: 30px;
+    padding-bottom: 89px;
+    margin-top: 10px;
+    margin-left: 50px;
+    margin-right: 25px;
+    margin-bottom: 12;
+}
